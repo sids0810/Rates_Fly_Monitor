@@ -1,4 +1,4 @@
-US Treasury Yield Curve "Fly" Monitor 🦋
+US Treasury Yield Curve "Fly" Monitor 
 
 📖 Project Overview
 
